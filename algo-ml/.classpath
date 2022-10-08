@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="ext_jars/YahooFinanceAPI-3.15.0.jar" sourcepath="sources/yahoofinance-api-3.15.0.zip"/>
+	<classpathentry kind="lib" path="ext_jars/jackson-annotations-2.12.4.jar"/>
+	<classpathentry kind="lib" path="ext_jars/jackson-core-2.12.4.jar"/>
+	<classpathentry kind="lib" path="ext_jars/jackson-databind-2.12.4.jar"/>
+	<classpathentry kind="lib" path="ext_jars/slf4j-api-1.7.32.jar"/>
+	<classpathentry kind="lib" path="ext_jars/slf4j-simple-1.7.32.jar"/>
+	<classpathentry kind="lib" path="ext_jars/commons-math3-3.6.1.jar" sourcepath="sources/commons-math-3.6.1-release.zip"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
